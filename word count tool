@@ -1,0 +1,11 @@
+# Quick Two Line Codes
+
+countOfWords = len("Geeksforgeeks is best Computer Science Portal".split())
+# Quick One Line Codes
+
+print(len("".split()))
+ 
+# Quick One Line Code with User Input
+print("welcome to word count tool")
+print(len(input("Enter the sentence to count the number of words in the sentence:").split()))
+print("thank you")
